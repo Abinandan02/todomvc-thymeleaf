@@ -11,6 +11,7 @@ Page available at http://localhost:8080
 ![image](https://github.com/Abinandan02/todomvc-thymeleaf/assets/82743546/dbf496e0-e558-4ac6-82fb-e490a7c32f62)
 
 View the table data at h2-console http://localhost:8080/h2-console
+
 ![image](https://github.com/Abinandan02/todomvc-thymeleaf/assets/82743546/91ecd20c-c33c-4135-8970-7a76c1068128)
 
 
